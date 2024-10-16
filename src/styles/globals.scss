@@ -1,0 +1,16 @@
+@use 'reset';
+@use 'layout';
+@use 'page';
+@use 'sidebar';
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+body {
+    color: #fff;
+    background: #fff;
+    font-family: "Sofia Sans Semi Condensed", Lato, sans-serif;
+    overflow: hidden;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
